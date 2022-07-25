@@ -1,0 +1,7 @@
+[
+{
+  "directory": "/home/drcl/Cpp_ws/VESC_EtherCAT/build",
+  "command": "/usr/bin/g++   -I/home/drcl/Cpp_ws/VESC_EtherCAT/includes  -g   -o CMakeFiles/test.dir/src/main.cpp.o -c /home/drcl/Cpp_ws/VESC_EtherCAT/src/main.cpp",
+  "file": "/home/drcl/Cpp_ws/VESC_EtherCAT/src/main.cpp"
+}
+]

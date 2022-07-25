@@ -1,0 +1,1 @@
+/usr/bin/g++  -g  -rdynamic CMakeFiles/vesc_ethercat_packet_test.dir/src/main.cpp.o  -o vesc_ethercat_packet_test 

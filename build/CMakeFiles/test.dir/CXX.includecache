@@ -1,0 +1,22 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+../includes/VESCular_Command.h
+
+../includes/VESCular_ethercat.h
+VESCular_Command.h
+../includes/VESCular_Command.h
+
+/home/drcl/Cpp_ws/VESC_EtherCAT/src/main.cpp
+iostream
+-
+stdio.h
+-
+VESCular_ethercat.h
+/home/drcl/Cpp_ws/VESC_EtherCAT/src/VESCular_ethercat.h
+
